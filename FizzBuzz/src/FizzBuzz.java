@@ -1,5 +1,6 @@
 public interface FizzBuzz {
 
-    public void print(int from, int to);
+    //Remove Parameter
+    void print( int to);
 
 }
